@@ -9,7 +9,7 @@
 <body>
 
     <h2>
-        <?php echo date('d-m-Y') ?>
+        felipe
     </h2>
     
 </body>
